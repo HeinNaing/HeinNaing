@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an aspiring Backend Developer with a strong interest in web development, security, and AI. I love coding, debugging, and continuously improving my skills through real-world projects and training.
+I'm an aspiring React & React Native Developer with a strong interest in web and mobile development, UI/UX, and AI. I love coding, debugging, and continuously improving my skills through real-world projects and training.
 
 ## 🚀 About Me
 
@@ -10,7 +10,7 @@ I'm an aspiring Backend Developer with a strong interest in web development, sec
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [Email](mailto:hein.naing@example.com)
+- 📫 How to reach me: [Email](mailto:nhein980@gmail.com)
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality.
 - 🤓 I am just a learner right now.
 
@@ -58,7 +58,7 @@ Built using Flutter for cross-platform mobile booking.
 
 🌏 **English:** Intermediate  
 🌏 **Chinese:** Learning  
-🌏 **Native Language:** [Your Native Language]
+🌏 **Native Language:** Burmese
 
 ## Learning & Goals 🎯
 
@@ -79,9 +79,7 @@ Built using Flutter for cross-platform mobile booking.
 
 Let's collaborate and build something great together!
 
-- **GitHub:** [Your GitHub Link]
-- **LinkedIn:** [Your LinkedIn Link]
-- **Portfolio:** [Your Portfolio Link]
+- **GitHub:** [HeinNaing](https://github.com/HeinNaing)
 
 ---
 
