@@ -1,16 +1,88 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**HeinNaing/HeinNaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Backend Developer with a strong interest in web development, security, and AI. I love coding, debugging, and continuously improving my skills through real-world projects and training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 👯 I’m looking to collaborate on innovative and impactful projects.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [Email](mailto:hein.naing@example.com)
+- ⚡ Fun fact: I love solving complex problems and turning ideas into reality.
+- 🤓 I am just a learner right now.
+
+## Tech Stack & Skills
+
+**Languages:** JavaScript, Python, Java
+
+**Backend:** Node.js, Express.js, MongoDB, Mongoose
+
+**Frontend:** React.js, React Native, Tailwind CSS (NativeWind for React Native)
+
+**Mobile Development:** React Native (Expo), Flutter
+
+**AI & Data:** Python (for AI chatbot development)
+
+**Tools & Workflow:** Git, GitHub, VS Code, MockFlow
+
+**Testing:** Functional Testing, API Testing, Black-box Testing
+
+## Current Projects
+
+### 🚀 AI-Solution Website
+
+**Features:**
+- AI Chatbot Integration
+- Contact Us Form & Admin Dashboard
+- User Authentication
+- Blog & Past Solutions Page
+
+**Tech Stack:** React, Tailwind, Node.js, Express.js, MongoDB
+
+### 🍽️ Cooking AI App (React Native Expo)
+
+**Features:**
+- Offline Mode: Search & view recipes
+- Online Mode: AI-powered recipe suggestions
+
+**Tech Stack:** React Native, Expo, NativeWind
+
+### 📅 Counselor Appointment App
+
+Built using Flutter for cross-platform mobile booking.
+
+## Languages I Know
+
+🌏 **English:** Intermediate  
+🌏 **Chinese:** Learning  
+🌏 **Native Language:** [Your Native Language]
+
+## Learning & Goals 🎯
+
+- Mastering Backend Development (Node.js, Express.js, MongoDB)
+- Improving React.js & React Native skills
+- Enhancing AI chatbot development
+- Becoming proficient in functional & security testing
+
+## 📈 GitHub Stats
+
+![HeinNaing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeinNaing&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![HeinNaing's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HeinNaing&theme=dracula)
+
+## Connect with Me 📩
+
+Let's collaborate and build something great together!
+
+- **GitHub:** [Your GitHub Link]
+- **LinkedIn:** [Your LinkedIn Link]
+- **Portfolio:** [Your Portfolio Link]
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
