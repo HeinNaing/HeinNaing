@@ -6,7 +6,6 @@ I'm an aspiring React & React Native Developer with a strong interest in web and
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on innovative and impactful projects.
 - 💬 Ask me about anything related to software development.
@@ -28,7 +27,6 @@ I'm an aspiring React & React Native Developer with a strong interest in web and
 
 **Tools & Workflow:** Git, GitHub, VS Code, MockFlow
 
-**Testing:** Functional Testing, API Testing, Black-box Testing
 
 ## Current Projects
 
