@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an aspiring React & React Native Developer with a strong interest in web and mobile development, UI/UX, and AI. I love coding, debugging, and continuously improving my skills through real-world projects and training.
+I'm an aspiring React & React Native Developer with a strong interest in web and mobile development, and AI. I love coding, debugging, and continuously improving my skills through real-world projects and training.
 
 ## 🚀 About Me
 
@@ -15,13 +15,13 @@ I'm an aspiring React & React Native Developer with a strong interest in web and
 
 ## Tech Stack & Skills
 
-**Languages:** JavaScript, Python, Java
+**Languages:** JavaScript, Python
 
 **Backend:** Node.js, Express.js, MongoDB, Mongoose
 
 **Frontend:** React.js, React Native, Tailwind CSS (NativeWind for React Native)
 
-**Mobile Development:** React Native (Expo), Flutter
+**Mobile Development:** React Native (Expo), Kotlin
 
 **AI & Data:** Python (for AI chatbot development)
 
@@ -61,8 +61,7 @@ Built using Flutter for cross-platform mobile booking.
 ## Learning & Goals 🎯
 
 - Mastering Backend Development (Node.js, Express.js, MongoDB)
-- Improving React.js & React Native skills
-- Enhancing AI chatbot development
+- Improving React.js skills
 - Becoming proficient in functional & security testing
 
 ## 📈 GitHub Stats
@@ -81,4 +80,4 @@ Let's collaborate and build something great together!
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+
