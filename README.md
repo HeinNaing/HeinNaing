@@ -19,9 +19,7 @@ I'm an aspiring React & React Native Developer with a strong interest in web and
 
 **Backend:** Node.js, Express.js, MongoDB, Mongoose
 
-**Frontend:** React.js, React Native, Tailwind CSS (NativeWind for React Native)
-
-**Mobile Development:** React Native (Expo), Kotlin
+**Frontend:** React.js, React Native, Tailwind CSS
 
 **AI & Data:** Python (for AI chatbot development)
 
