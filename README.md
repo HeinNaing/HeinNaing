@@ -16,6 +16,11 @@ Software developer focused on building practical web, backend, mobile, and AI-en
 - AI application development and agentic workflows
 - Cloud-native deployment, Kubernetes, and CI/CD
 - Stronger testing and system-design practices
+- Testing
+
+## 📈 GitHub Stats
+
+![HeinNaing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeinNaing&show_icons=true&theme=radical&hide_border=true)
 
 ## Connect
 
