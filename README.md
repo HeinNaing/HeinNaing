@@ -20,7 +20,7 @@ Software developer focused on building practical web, backend, mobile, and AI-en
 
 ## 📈 GitHub Stats
 
-![HeinNaing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeinNaing&show_icons=true&theme=radical&hide_border=true)
+View my activity and contribution graph on [my GitHub profile](https://github.com/HeinNaing).
 
 ## Connect
 
